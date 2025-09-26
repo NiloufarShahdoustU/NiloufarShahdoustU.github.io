@@ -16,7 +16,7 @@ redirect_from:
 
 <!-- ## 👋 About Me -->
 
-I’m a PhD candidate in Electrical and Computer Engineerin at University of Utah.
+Hello! I’m a PhD candidate in Electrical and Computer Engineerin at University of Utah.
 
 ---
 
