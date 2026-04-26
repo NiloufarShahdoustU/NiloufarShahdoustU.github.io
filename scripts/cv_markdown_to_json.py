@@ -141,10 +141,12 @@ def extract_author_info(config):
             })
         
         if author.get('linkedin'):
+            linkedin_value = author.get('linkedin')
+            linkedin_url = linkedin_value if '://' in linkedin_value else f"https://www.linkedin.com/in/{linkedin_value}"
             profiles.append({
                 "network": "LinkedIn",
-                "username": author.get('linkedin'),
-                "url": f"https://www.linkedin.com/in/{author.get('linkedin')}"
+                "username": linkedin_value,
+                "url": linkedin_url
             })
         
         if author.get('twitter'):
