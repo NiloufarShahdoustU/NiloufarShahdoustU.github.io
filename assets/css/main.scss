@@ -40,3 +40,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.compact-archive-list {
+  .archive__item,
+  .archive__item-excerpt,
+  .page__meta,
+  p,
+  li {
+    font-size: 12px;
+  }
+
+  .archive__item-title {
+    font-size: 12px;
+    line-height: 1.4;
+  }
+}
