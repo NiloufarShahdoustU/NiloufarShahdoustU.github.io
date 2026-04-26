@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Niloufar Shahdoust"
 title_separator          : "-"
 name                     : &name "Niloufar Shahdoust"
-description              : &description "My personal website"
+description              : &description "PhD candidate in Electrical and Computer Engineering at the University of Utah"
 url                      : https://NiloufarShahdoustU.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/NiloufarShahdoustU"
+repository               : "NiloufarShahdoustU/NiloufarShahdoustU.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "https://github.com/NiloufarShahdoustU"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nill"
+  name             : "Niloufar Shahdoust"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
+  bio              : "PhD candidate in Electrical and Computer Engineering studying decision-making, neuroengineering, and reinforcement learning."
   location         : "Salt Lake City, UT"
   employer         : "University of Utah"
   uri              : # URL
-  email            : "niloufar.shaah@gmail.com" 
+  email            : "niloufar.shahdoust@utah.edu"
 
   # Academic websites
   academia         : # URL
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/niloufar-shahdoust-634b3b16a"
+  linkedin         : "niloufar-shahdoust-634b3b16a"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
